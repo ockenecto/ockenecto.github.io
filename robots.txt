@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ockenecto.github.io/ockenecto.txt.gz
+Sitemap: https://ockenecto.github.io/app/ockenecto.txt.gz
+Sitemap: https://ockenecto.github.io/assets/ockenecto.txt.gz
+Sitemap: https://ockenecto.github.io/css/ockenecto.txt.gz
+Sitemap: https://ockenecto.github.io/includes/ockenecto.txt.gz
+Sitemap: https://ockenecto.github.io/item/ockenecto.txt.gz
+Sitemap: https://ockenecto.github.io/src/ockenecto.txt.gz
